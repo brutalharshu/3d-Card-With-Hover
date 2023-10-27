@@ -2,7 +2,7 @@
 
 This is a repository for a 3D card hover effect project.
 
-Website: [https://jod-harsh.github.io/3d-Card-With-Hover/](3d-Card-With-Hover)
+Website: [3d-Card-With-Hover](https://jod-harsh.github.io/3d-Card-With-Hover/)
 
 ## Images
 
